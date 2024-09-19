@@ -50,6 +50,9 @@ body:lang(ar) {
     text-align: right;
     font-family: "Cairo", sans-serif;
 }
+.arabic__font {
+    font-family: "Cairo", sans-serif;
+}
 
 [tabindex="-1"]:focus {
     outline: 0 !important
